@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Douglas Belarmino</h1>
+<h1 align="center">Hi 👋, I'm Douglas</h1>
 <h3 align="center">Focused on the best front-end, mobile and back-end development technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasbelarmino" alt="douglasbelarmino" /> </p>
