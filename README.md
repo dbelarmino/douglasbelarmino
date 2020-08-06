@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas</h1>
 <h3 align="center">Focused on the best front-end, mobile and back-end development technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasbelarmino" alt="douglasbelarmino" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/douglasbelarmino?tab=repositories](https://github.com/douglasbelarmino?tab=repositories)
 
 - 💬 Ask me about **ReactJS, React Native e Node.js**
