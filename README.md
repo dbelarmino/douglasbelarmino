@@ -12,4 +12,4 @@ Sou desenvolvedor fullstack ReactJS & Node.js :computer:
  <br/> 💬  &nbsp; Sobre mim: curto tecnologias, futebol ...
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Linkedin)](https://www.linkedin.com/in/douglas-belarmino/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.belarr@gmail.com)](mailto:douglas.belarr@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.belarr@gmail.com)](mailto:douglas.belarr@gmail.com)
