@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Douglas</h1>
-<h3 align="center">Focused on the best front-end, mobile and back-end development technologies.</h3>
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-- 👨‍💻 All of my projects are available at [https://github.com/douglasbelarmino?tab=repositories](https://github.com/douglasbelarmino?tab=repositories)
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+<br /><br />
+Sou desenvolvedor fullStack ReactJS & Node.js :computer:
 
-- 💬 Ask me about **ReactJS, React Native e Node.js**
-
-- 📫 How to reach me **[Linkedin](https://linkedin/in/douglas-belarmino)**
+ :rocket:  &nbsp; Estou trabalhando na **Magnet Smart Solutions**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, futebol ...
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/douglas-belarmino/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.belarr@gmail.com)](mailto:douglas.belarr@gmail.com)
