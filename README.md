@@ -2,8 +2,6 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-<br /><br />
-Sou desenvolvedor fullstack ReactJS & Node.js :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Magnet Smart Solutions**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js
