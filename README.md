@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 
  :rocket:  &nbsp; Estou trabalhando na **Compasso UOL**
- <br/> :blush: &nbsp; Posso te ajudar com ReactJS e Node.js
+ <br/> :blush: &nbsp; Posso te ajudar com ReactJS
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, café, futebol, churrasco ...
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Linkedin)](https://www.linkedin.com/in/douglas-belarmino/) 
