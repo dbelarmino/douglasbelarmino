@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 
- :rocket:  &nbsp; Estou trabalhando na **Magnet Smart Solutions**
+ :rocket:  &nbsp; Estou trabalhando na **Compasso UOL**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js
  <br/> :blush: &nbsp; Posso te ajudar com ReactJS e Node.js
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
